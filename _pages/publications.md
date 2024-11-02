@@ -13,7 +13,7 @@ Theilman, B. H., Zhang, Q., Kahana, A., Cyr, E. C., Trask, N., Aimone, J. B., & 
 
 Zhang, Q., Wu, C., Kahana, A., Kim, Y., Li, Y., Karniadakis, G. E., & Panda, P. (2023). Artificial to Spiking Neural Networks Conversion for Scientific Machine Learning. *arXiv preprint arXiv:2308.16372*.
 
-Zhang, Q., Kahana, A., Karniadakis, G. E., & Stinis, P. (2022). SMS: Spiking Marching Scheme for Efficient Long Time Integration of Differential Equations. *arXiv preprint arXiv:2211.09928*.
+Zhang, Q., Kahana, A., Karniadakis, G. E., & Stinis, P. (2024). SMS: Spiking marching scheme for efficient long time integration of differential equations. *Journal of Computational Physics, 516*, 113363.
 
 Kahana, A., Zhang, Q., Gleyzer, L., & Karniadakis, G. E. (2022). Spiking Neural Operators for Scientific Machine Learning. *arXiv preprint arXiv:2205.10130*.
 
